@@ -1,0 +1,2424 @@
+{
+  "experimentName": "bus-3",
+  "lead": {
+    "deviceName": "Postman",
+    "temporaryTracingKeys": [
+      {
+        "key": "gHar/BAhqOm9cBvrZM37Qg==",
+        "intervalCount": 144,
+        "intervalNumber": 2655216
+      }
+    ]
+  },
+  "requestedConfigurations": [
+    {
+      "attenuationDurationThresholds": [
+        55,
+        63,
+        90
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "deviceName": "7011",
+      "googlePlayServicesVersion": "20.33.15 (040306-330018294)",
+      "usedExposureNotificationApiVersion": "2.0",
+      "temporaryTracingKeys": [
+        {
+          "key": "EsXqJxaYonSOR12YcK5VqQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "RKH6ESmr1jb+0Qqns/AETQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "UVKBdnctjWqD6LVp/2XHGg==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "cw8rKwVpPwETO/BfM02aFQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "hyz2S/fNaFx0SfH8+R1aPA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "ncxHq5cz+vfULa0ppZZdOg==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "sp0vhrH+48DtD1KEyva3HA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "17T7urHAipqhQcfdJAeMLw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        }
+      ],
+      "results": [
+        {
+          "timestamp": "2020-10-20T12:06:05.375Z",
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "deviceName": "7019",
+      "temporaryTracingKeys": [
+        {
+          "key": "GV/uovqeqKatdYM3UNN4jw==",
+          "intervalCount": 144,
+          "intervalNumber": 2671920
+        }
+      ],
+      "results": [
+        {
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 360
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 48,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 46,
+                      "minAttenuationDb": 43,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 64,
+                      "secondsSinceLastScan": 360
+                    },
+                    {
+                      "typicalAttenuationDb": 79,
+                      "minAttenuationDb": 73,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 71,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 76,
+                      "minAttenuationDb": 76,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 71,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 78,
+                      "minAttenuationDb": 77,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 76,
+                      "minAttenuationDb": 73,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 74,
+                      "minAttenuationDb": 72,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 65,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 360
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            }
+          ],
+          "timestamp": "2020-10-20T12:07:48Z"
+        }
+      ]
+    },
+    {
+      "deviceName": "7002",
+      "googlePlayServicesVersion": "20.39.15 (100408-335085812)",
+      "usedExposureNotificationApiVersion": "2.0",
+      "temporaryTracingKeys": [
+        {
+          "key": "DIZ1u5OvRp1M1W5omzSCgA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "XoqNbEYJk9jX6miRJUoY2g==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "db0xqwEgCyvHu+y+b4WI2w==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "ii09d9tm7GG3wjhfZHbv1g==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "pf989rFuEJCgwt2snbzD7g==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "tzI7VxGaJUpMBttTLtTGxQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "74s32DckV9jy6hYPQYzWKw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "+2n10WFB1JYCWSSbNeWyRQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        }
+      ],
+      "results": [
+        {
+          "timestamp": "2020-10-20T12:07:45.704Z",
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 1
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 48,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 76,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 75,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 64,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 48,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 72,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 80,
+                      "minAttenuationDb": 73,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 77,
+                      "minAttenuationDb": 73,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 74,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 44,
+                      "minAttenuationDb": 39,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 47,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 44,
+                      "minAttenuationDb": 41,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 48,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 46,
+                      "minAttenuationDb": 46,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "deviceName": "7018",
+      "temporaryTracingKeys": [
+        {
+          "key": "FEurxUks64eDvVTXtVSwNA==",
+          "intervalCount": 144,
+          "intervalNumber": 2671920
+        }
+      ],
+      "results": [
+        {
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 64,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 65,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 76,
+                      "minAttenuationDb": 68,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 42,
+                      "minAttenuationDb": 40,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 45,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 47,
+                      "minAttenuationDb": 38,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 46,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 0
+                    },
+                    {
+                      "typicalAttenuationDb": 72,
+                      "minAttenuationDb": 68,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 53,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 45,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 48,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            }
+          ],
+          "timestamp": "2020-10-20T12:06:08Z"
+        }
+      ]
+    },
+    {
+      "deviceName": "7030",
+      "googlePlayServicesVersion": "20.39.15 (100400-335085812)",
+      "usedExposureNotificationApiVersion": "2.0",
+      "temporaryTracingKeys": [
+        {
+          "key": "GFF3hX2hRZ73GKSVLclzBg==",
+          "intervalNumber": 2671920,
+          "intervalCount": 72
+        },
+        {
+          "key": "GpaTpsTAw22leokdUJTHyQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "NvWvutuQEsZo7F/ISigFyA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "PmMLeh9Rn0qaTqCxwy1ENA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "Yb1DSeW9DtqTWLtlfz7VHQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "fExfQnap+rGxcUmCISkakw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "rO/TsjyBjCuNrVwrPfz7sg==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "7vrBLkFL4nS8cStqkv2Hmw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "9nre3B3Hyu/EUrjRHxafhQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        }
+      ],
+      "results": [
+        {
+          "timestamp": "2020-10-20T12:06:25.522Z",
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 76,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 1
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 86,
+                      "minAttenuationDb": 81,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 73,
+                      "minAttenuationDb": 70,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 72,
+                      "minAttenuationDb": 68,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 74,
+                      "minAttenuationDb": 71,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 65,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "deviceName": "7008",
+      "temporaryTracingKeys": [
+        {
+          "key": "pMjgZO2dfBU1uNhZefbWug==",
+          "intervalCount": 144,
+          "intervalNumber": 2671920
+        }
+      ],
+      "results": [
+        {
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 68,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 63,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 64,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 75,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 80,
+                      "minAttenuationDb": 75,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 81,
+                      "minAttenuationDb": 74,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 75,
+                      "minAttenuationDb": 73,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 64,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 69,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 65,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 68,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 48,
+                      "secondsSinceLastScan": 300
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 72,
+                      "minAttenuationDb": 69,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            }
+          ],
+          "timestamp": "2020-10-20T12:05:49Z"
+        }
+      ]
+    },
+    {
+      "deviceName": "7015",
+      "temporaryTracingKeys": [
+        {
+          "key": "6A0ZvcgzcGAw5mXroCqU7w==",
+          "intervalCount": 144,
+          "intervalNumber": 2671920
+        }
+      ],
+      "results": [
+        {
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 58,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 53,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 0
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 71,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 67,
+                      "minAttenuationDb": 66,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 66,
+                      "minAttenuationDb": 62,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 60,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 53,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 53,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 180
+                    },
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 42,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 49,
+                      "minAttenuationDb": 39,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 51,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 48,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 70,
+                      "minAttenuationDb": 67,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 59,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": []
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 180
+                    }
+                  ],
+                  "reportType": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 52,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "reportType": 0
+                }
+              ]
+            }
+          ],
+          "timestamp": "2020-10-20T12:06:49Z"
+        }
+      ]
+    },
+    {
+      "deviceName": "7003",
+      "googlePlayServicesVersion": "20.36.15 (100408-333172415)",
+      "usedExposureNotificationApiVersion": "2.0",
+      "temporaryTracingKeys": [
+        {
+          "key": "AEJjMQycGSf3QeYblnkEvA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "IKfqZnjR4ZD5wKECBXulQA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 72
+        },
+        {
+          "key": "KndHoyszVdwS+M2zW878Uw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "Mzxu6BYq8v2F9nIv73h25A==",
+          "intervalNumber": 2671920,
+          "intervalCount": 72
+        },
+        {
+          "key": "NdwrPWI4zqrj5dKxMS3uxQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "SMvk486evcEDuWTUIOaKzQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "SY/hUhnMb6LPIWA+j0ZxWA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "YsOu2B9ksWSS8pctCgDseA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "a4TO/4UfLwv/GzAGgost4A==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "hGJlFV6QclDVIsuZ9NGZdQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 72
+        },
+        {
+          "key": "wNOL7Avd1qBiMQScaAO7gQ==",
+          "intervalNumber": 2671920,
+          "intervalCount": 71
+        },
+        {
+          "key": "6/BqHygI/Fqj9fwUn6rdmA==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        },
+        {
+          "key": "9YhV7SETWBgboFcyFCp4gw==",
+          "intervalNumber": 2671920,
+          "intervalCount": 73
+        }
+      ],
+      "results": [
+        {
+          "timestamp": "2020-10-20T12:07:12.251Z",
+          "counterparts": [
+            {
+              "deviceName": "7011",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 55,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 48,
+                      "minAttenuationDb": 43,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 1
+                }
+              ]
+            },
+            {
+              "deviceName": "7019",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 51,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 61,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 51,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7002",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 46,
+                      "minAttenuationDb": 42,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 48,
+                      "minAttenuationDb": 42,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 50,
+                      "minAttenuationDb": 42,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 47,
+                      "minAttenuationDb": 45,
+                      "secondsSinceLastScan": 120
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7018",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 57,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 59,
+                      "minAttenuationDb": 55,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7030",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 52,
+                      "minAttenuationDb": 40,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 0
+                },
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 49,
+                      "minAttenuationDb": 46,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 58,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 0
+                }
+              ]
+            },
+            {
+              "deviceName": "7008",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 53,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 65,
+                      "minAttenuationDb": 61,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 63,
+                      "minAttenuationDb": 56,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 64,
+                      "minAttenuationDb": 57,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 62,
+                      "minAttenuationDb": 54,
+                      "secondsSinceLastScan": 300
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7015",
+              "exposureWindows": [
+                {
+                  "date": "2020-10-20T00:00:00Z",
+                  "reportType": 1,
+                  "scanInstances": [
+                    {
+                      "typicalAttenuationDb": 51,
+                      "minAttenuationDb": 45,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 54,
+                      "minAttenuationDb": 49,
+                      "secondsSinceLastScan": 120
+                    },
+                    {
+                      "typicalAttenuationDb": 60,
+                      "minAttenuationDb": 50,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 53,
+                      "minAttenuationDb": 47,
+                      "secondsSinceLastScan": 240
+                    },
+                    {
+                      "typicalAttenuationDb": 56,
+                      "minAttenuationDb": 44,
+                      "secondsSinceLastScan": 240
+                    }
+                  ],
+                  "infectiousness": 1,
+                  "calibrationConfidence": 3
+                }
+              ]
+            },
+            {
+              "deviceName": "7003",
+              "exposureWindows": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "experimentId": "r_XnDChuJ"
+}
